@@ -16,4 +16,4 @@ spec:
       kind: DockerImage
       name: quay.io/yun1_kwon/greeting-console
     pushSecret:
-      name: quay-credentials3
+      name: quay-credentials
